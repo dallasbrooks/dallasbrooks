@@ -12,6 +12,10 @@ I have a passion for operating systems, and back-end development.
 ![Dallas Brooks's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dallasbrooks&theme=tokyonight&layout=compact)
 
 <!--
+![Baracktocat](https://octodex.github.com/images/baracktocat.jpg)
+-->
+
+<!--
 **dallasbrooks/dallasbrooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
