@@ -4,7 +4,7 @@
 I am a Full Stack Developer at [Precision Sails ltd.](https://www.precisionsailloft.com/)
 
 I am a Computer Science graduate, with a focus in Software Engineering from the University of Victoria.<br>
-I have a passion for operating systems, and back-end development.
+I have a passion for operating systems, software security, and computational complexity.
 
 
 ### My profile
