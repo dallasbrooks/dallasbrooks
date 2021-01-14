@@ -10,7 +10,8 @@ I have a passion for operating systems, software security, and computational com
 ![Dallas Brooks's github stats](https://github-readme-stats.vercel.app/api?username=dallasbrooks&theme=tokyonight)
 ![Dallas Brooks's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dallasbrooks&theme=tokyonight&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/dallasbrooks)
+![Profile views](https://gpvc.arturio.dev/dallasbrooks)<br>
+![GitHub followers](https://img.shields.io/github/followers/dallasbrooks.svg?style=social&label=Follow&maxAge=2592000)
 
 <!--
 ![Baracktocat](https://octodex.github.com/images/baracktocat.jpg)
