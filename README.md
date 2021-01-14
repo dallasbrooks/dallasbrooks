@@ -6,10 +6,11 @@ I am a Full Stack Developer at [Precision Sails ltd.](https://www.precisionsaill
 I am a Computer Science graduate, with a focus in Software Engineering from the University of Victoria.<br>
 I have a passion for operating systems, software security, and computational complexity.
 
-
-### My profile
+### My profile Stats
 ![Dallas Brooks's github stats](https://github-readme-stats.vercel.app/api?username=dallasbrooks&theme=tokyonight)
 ![Dallas Brooks's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dallasbrooks&theme=tokyonight&layout=compact)
+
+![Profile views](https://gpvc.arturio.dev/dallasbrooks)
 
 <!--
 ![Baracktocat](https://octodex.github.com/images/baracktocat.jpg)
