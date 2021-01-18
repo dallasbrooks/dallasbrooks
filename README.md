@@ -12,7 +12,7 @@ I have a passion for operating systems, software security, and computational com
 ![Dallas Brooks's github stats](https://github-readme-stats.vercel.app/api?username=dallasbrooks&theme=tokyonight)
 ![Dallas Brooks's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dallasbrooks&theme=tokyonight&layout=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dallasbrooks&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=dallasbrooks&theme=nord)
 
 <hr>
 
