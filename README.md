@@ -13,14 +13,6 @@
 
 <hr>
 
-### Connect with me
-
-<a href="https://linkedin.com/in/dallas-brooks-470620199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dallas-brooks-470620199" height="30" width="40" /></a>
-<a href="https://fb.com/b.dallas.0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="b.dallas.0" height="30" width="40" /></a>
-<a href="https://instagram.com/b.dallas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="b.dallas" height="30" width="40" /></a>
-
-<hr>
-
 ### Languages and Tools
 
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
