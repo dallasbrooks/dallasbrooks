@@ -1,9 +1,7 @@
-
 <h1 align="center">Hi there 👋, I'm Dallas</h1>
 
-### I am a Full Stack Developer at [Precision Sails ltd.](https://www.precisionsailloft.com)<br> I am a Computer Science graduate, with a focus in Software Engineering from the University of Victoria. <br> I have a passion for operating systems, software security, and computational complexity.
+### I am a Full Stack Developer at [Precision Sails ltd.](https://www.precisionsailloft.com) <br> I am a Computer Science graduate, with a focus in Software Engineering, from the University of Victoria. <br> I have a passion for operating systems, software security, and computational complexity.
 
-<hr>
 
 - 🌱 I’m currently learning **Proxy-Servers, & APIs**
 
