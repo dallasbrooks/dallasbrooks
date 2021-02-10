@@ -1,15 +1,12 @@
-<h1 align="center">Hi there 👋, I'm Dallas</h1>
+<h1 align="center">Hi there :wave:, I'm Dallas</h1>
 
 ### I am a Full Stack Developer at [Precision Sails ltd.](https://www.precisionsailloft.com) <br> I am a Computer Science graduate, with a focus in Software Engineering, from the University of Victoria. <br> I have a passion for operating systems, software security, and computational complexity.
 
 
-- 🌱 I’m currently learning **Proxy-Servers, & APIs**
-
-- 👨‍💻 All of my projects are available on my [Github](https://github.com/dallasbrooks?tab=repositories)
-
-- 📄 Know about my experiences [Visit my Site!](https://dallasbrooks.github.io)
-
-- ⚡ Fun fact **I like to golf**
+- :seedling: I’m currently learning **Proxy-Servers, & APIs**
+- :man_technologist: All of my projects are available on my [Github](https://github.com/dallasbrooks?tab=repositories)
+- :page_facing_up: Know about my experiences [Visit my Site!](https://dallasbrooks.github.io)
+- :gift: Fun fact **I like to golf**
 
 <hr>
 
