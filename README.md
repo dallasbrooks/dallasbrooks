@@ -5,7 +5,7 @@
 
 - :seedling: I’m currently learning **Proxy-Servers, & APIs**
 - :man_technologist: All of my projects are available on my [Github](https://github.com/dallasbrooks?tab=repositories)
-- :page_facing_up: Know about my experiences [Visit my Site!](https://dallasbrooks.github.io)
+- :page_facing_up: My experiences can be seen on my [Personal Site](https://dallasbrooks.github.io)
 - :gift: Fun fact **I like to golf**
 
 <hr>
@@ -43,14 +43,12 @@
 <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /></a>
 <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" /></a>
 
-
 <hr>
 
 ### Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dallasbrooks&theme=tokyonight)
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dallasbrooks&theme=tokyonight&layout=compact)
-
 
 ![Profile views](https://gpvc.arturio.dev/dallasbrooks)<br>
 ![GitHub followers](https://img.shields.io/github/followers/dallasbrooks.svg?style=social&label=Follow&maxAge=2592000)
