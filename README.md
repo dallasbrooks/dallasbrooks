@@ -52,5 +52,3 @@
 
 [![Profile Views](https://gpvc.arturio.dev/dallasbrooks)](https://github.com/dallasbrooks)
 [![Github Followers](https://img.shields.io/github/followers/dallasbrooks?style=social)](https://github.com/dallasbrooks?tab=followers)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=dallasbrooks)](https://github.com/dallasbrooks)
