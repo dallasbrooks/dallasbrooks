@@ -50,5 +50,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dallasbrooks&theme=tokyonight)
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dallasbrooks&theme=tokyonight&layout=compact)
 
-[![Profile views](https://gpvc.arturio.dev/dallasbrooks)](https://github.com/dallasbrooks)
-[![GitHub followers](https://img.shields.io/github/followers/dallasbrooks.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dallasbrooks?tab=followers)
+[![Profile Views](https://gpvc.arturio.dev/dallasbrooks)](https://github.com/dallasbrooks)
+[![Github Followers](https://img.shields.io/github/followers/dallasbrooks?style=social)](https://github.com/dallasbrooks?tab=followers)
