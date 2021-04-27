@@ -6,7 +6,8 @@
 - :seedling: I’m currently learning **Proxy-Servers, & APIs**
 - :man_technologist: All of my projects are available on my [Github](https://github.com/dallasbrooks?tab=repositories)
 - :page_facing_up: My experiences can be seen on my [Personal Site](https://dallasbrooks.github.io)
-- :gift: Fun fact **I like to golf**
+- :smile: Pronouns: He/Him
+- :gift: Fun fact: **I like to golf**
 
 <hr>
 
