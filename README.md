@@ -3,7 +3,7 @@
 ### I am a Full Stack Developer at [Precision Sails ltd.](https://www.precisionsailloft.com) <br> I am a Computer Science graduate, with a focus in Software Engineering, from the University of Victoria. <br> I have a passion for operating systems, software security, and computational complexity.
 
 
-- :seedling: I’m currently learning **Node Apps, & Proxy-Servers**
+- :seedling: I’m currently learning **Node Apps, & TypeScript**
 - :man_technologist: All of my projects are available on my [Github](https://github.com/dallasbrooks?tab=repositories)
 - :page_facing_up: My experiences can be seen on my [Personal Site](https://dallasbrooks.github.io)
 - :smile: Pronouns: He / Him
