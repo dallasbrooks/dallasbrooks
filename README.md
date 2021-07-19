@@ -1,53 +1,50 @@
-<h1 align="center">Hi there :wave:, I'm Dallas</h1>
+# Hi :wave:, I'm Dallas
 
-### I am a Full Stack Developer at [Precision Sails ltd.](https://www.precisionsailloft.com) <br> I am a Computer Science graduate, with a focus in Software Engineering, from the University of Victoria. <br> I have a passion for operating systems, software security, and computational complexity.
+I am a Full Stack Developer at [Precision Sails ltd.](https://www.precisionsailloft.com)<br> 
+I am a Computer Science graduate, with a focus in Software Engineering, from the University of Victoria.<br>
+I have a passion for operating systems, software security, and computational complexity.
 
+<hr>
 
-- :seedling: I’m currently learning **Node Apps, Go, & TypeScript**
+## About Me
+
+<img width="50%" align="right" alt="Github" src="img/git-header.svg" />
+
+- :seedling: I’m currently learning **Go, & TypeScript**
+- :open_file_folder: I’m currently working on **My Site, and Optimizing Algorithms**
 - :man_technologist: All of my projects are available on my [Github](https://github.com/dallasbrooks?tab=repositories)
-- :page_facing_up: My experiences can be seen on my [Personal Site](https://dallasbrooks.github.io)
+- :page_facing_up: My experiences can be seen on my [Website](https://dallasbrooks.github.io)
 - :smile: Pronouns: He / Him
 - :gift: Fun fact: **I like to golf**
 
-<hr>
+## Skills
 
-### Languages and Tools
-
- <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
-<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
-<br>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
-<a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-<br>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40" /></a>
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /></a>
-<br>
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /></a>
-<a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /></a>
-<br>
-<a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /></a>
-<a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" /></a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=python&sort="><img width="32px" src="img/python.svg"> </a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=javascript&sort="><img width="32px" src="img/javascript.svg"> </a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=c&sort="><img width="32px" src="img/c.svg"> </a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=sqlite&sort="><img width="32px" src="img/sqlite.svg"> </a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=bash&sort="><img width="32px" src="img/bash.svg"> </a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=express&sort="><img width="32px" src="img/express.svg"> </a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=git&sort="><img width="32px" src="img/git.svg"> </a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=github&sort="><img width="32px" src="img/github.svg"> </a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=go&sort="><img width="32px" src="img/go.svg"> </a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=java&sort="><img width="32px" src="img/java.svg"> </a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=nodejs&sort="><img width="32px" src="img/nodejs.svg"> </a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=typescript&sort="><img width="32px" src="img/typescript.svg"> </a>
 
 <hr>
 
-### Github Stats
+## Connect with me
 
+<a href="https://www.linkedin.com/in/dallas-brooks-470620199"><img width="32px" src="img/linked-in-alt.svg"/></a> 
+<a href="https://dallasbrooks.github.io/"><img width="32px" src="img/portfolio.png"/></a> 
+<a href="https://www.github.com/dallasbrooks"><img width="32px" src="img/github.svg"/></a>
+
+<hr>
+
+## My GitHub Stats
+
+![Metrics](https://metrics.lecoq.io/dallasbrooks?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dallasbrooks&theme=tokyonight)
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dallasbrooks&theme=tokyonight&layout=compact)
 
