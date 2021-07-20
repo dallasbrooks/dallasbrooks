@@ -1,4 +1,4 @@
-# Hi :wave:, I'm Dallas
+<h1 align="center"> Hi :wave:, I'm Dallas</h1>
 
 I am a Full Stack Developer at [Precision Sails ltd.](https://www.precisionsailloft.com)<br> 
 I am a Computer Science graduate, with a focus in Software Engineering, from the University of Victoria.<br>
@@ -19,18 +19,18 @@ I have a passion for operating systems, software security, and computational com
 
 ## Skills
 
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=python&sort="><img width="32px" src="img/python.svg"> </a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=javascript&sort="><img width="32px" src="img/javascript.svg"> </a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=c&sort="><img width="32px" src="img/c.svg"> </a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=sqlite&sort="><img width="32px" src="img/sqlite.svg"> </a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=bash&sort="><img width="32px" src="img/bash.svg"> </a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=express&sort="><img width="32px" src="img/express.svg"> </a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=git&sort="><img width="32px" src="img/git.svg"> </a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=github&sort="><img width="32px" src="img/github.svg"> </a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=go&sort="><img width="32px" src="img/go.svg"> </a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=java&sort="><img width="32px" src="img/java.svg"> </a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=nodejs&sort="><img width="32px" src="img/nodejs.svg"> </a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=typescript&sort="><img width="32px" src="img/typescript.svg"> </a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=python&sort="><img width="32px" src="img/python.svg"></a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=javascript&sort="><img width="32px" src="img/javascript.svg"></a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=c&sort="><img width="32px" src="img/c.svg"></a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=sqlite&sort="><img width="32px" src="img/sqlite.svg"></a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=bash&sort="><img width="32px" src="img/bash.svg"></a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=express&sort="><img width="32px" src="img/express.svg"></a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=git&sort="><img width="32px" src="img/git.svg"></a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=github&sort="><img width="32px" src="img/github.svg"></a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=go&sort="><img width="32px" src="img/go.svg"></a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=java&sort="><img width="32px" src="img/java.svg"></a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=nodejs&sort="><img width="32px" src="img/nodejs.svg"></a>
+<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=typescript&sort="><img width="32px" src="img/typescript.svg"></a>
 
 <hr>
 
