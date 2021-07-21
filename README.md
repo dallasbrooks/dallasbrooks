@@ -17,6 +17,8 @@ I have a passion for operating systems, software security, and computational com
 - :smile: Pronouns: He / Him
 - :gift: Fun fact: **I like to golf**
 
+<hr>
+
 ## Skills
 
 <a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=python&sort="><img width="32px" src="img/python.svg"></a>
@@ -31,7 +33,6 @@ I have a passion for operating systems, software security, and computational com
 <a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=java&sort="><img width="32px" src="img/java.svg"></a>
 <a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=nodejs&sort="><img width="32px" src="img/nodejs.svg"></a>
 <a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=typescript&sort="><img width="32px" src="img/typescript.svg"></a>
-
 <hr>
 
 ## Connect with me
@@ -39,7 +40,6 @@ I have a passion for operating systems, software security, and computational com
 <a href="https://www.linkedin.com/in/dallas-brooks-470620199"><img width="32px" src="img/linked-in-alt.svg"/></a> 
 <a href="https://dallasbrooks.github.io/"><img width="32px" src="img/portfolio.png"/></a> 
 <a href="https://www.github.com/dallasbrooks"><img width="32px" src="img/github.svg"/></a>
-
 <hr>
 
 ## GitHub Stats
