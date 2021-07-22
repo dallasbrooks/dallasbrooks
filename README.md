@@ -8,7 +8,7 @@ I have a passion for operating systems, software security, and computational com
 
 ## About Me
 
-<img width="50%" align="right" alt="Github" src="img/git-header.svg" />
+<img width="35%" align="right" alt="Github" src="img/git-header.svg" />
 
 - :seedling: I’m currently learning **Go, & TypeScript**
 - :open_file_folder: I’m currently working on **My Site, and Optimizing Algorithms**
