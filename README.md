@@ -37,7 +37,7 @@ I have a passion for operating systems, software security, and computational com
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/dallas-brooks-470620199"><img width="32px" src="img/linked-in-alt.svg"/></a> 
+<a href="https://www.linkedin.com/in/dallasbrooks0"><img width="32px" src="img/linked-in-alt.svg"/></a> 
 <a href="https://dallasbrooks.github.io/"><img width="32px" src="img/portfolio.png"/></a> 
 <a href="https://www.github.com/dallasbrooks"><img width="32px" src="img/github.svg"/></a>
 <hr>
