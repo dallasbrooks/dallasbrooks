@@ -10,7 +10,7 @@ I have a passion for operating systems, software security, and computational com
 
 <img width="35%" align="right" alt="Github" src="img/git-header.svg" />
 
-- :seedling: I’m currently learning **Go, & TypeScript**
+- :seedling: I’m currently learning **C, & Algorithm Efficiencies**
 - :open_file_folder: I’m currently working on **My Site, and Optimizing Algorithms**
 - :man_technologist: All of my projects are available on my [Github](https://github.com/dallasbrooks?tab=repositories)
 - :page_facing_up: My experiences can be seen on my [Website](https://dallasbrooks.github.io)
