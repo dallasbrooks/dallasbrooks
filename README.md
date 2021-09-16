@@ -1,6 +1,6 @@
 <h1 align="center"> Hi :wave:, I'm Dallas</h1>
 
-I am a Full Stack Developer at [Precision Sails ltd.](https://www.precisionsailloft.com)<br> 
+I am a Linux Software Programmer at [Polaris Motion](https://pmdi.com/)<br> 
 I am a Computer Science graduate, with a focus in Software Engineering, from the University of Victoria.<br>
 I have a passion for operating systems, software security, and computational complexity.
 
@@ -10,7 +10,7 @@ I have a passion for operating systems, software security, and computational com
 
 <img width="35%" align="right" alt="Github" src="img/git-header.svg" />
 
-- :seedling: I’m currently learning **C, & Algorithm Efficiencies**
+- :seedling: I’m currently learning **C, & GCode**
 - :open_file_folder: I’m currently working on **My Site, and Optimizing Algorithms**
 - :man_technologist: All of my projects are available on my [Github](https://github.com/dallasbrooks?tab=repositories)
 - :page_facing_up: My experiences can be seen on my [Website](https://dallasbrooks.github.io)
