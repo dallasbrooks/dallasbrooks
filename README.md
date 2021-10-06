@@ -20,20 +20,19 @@ I have a passion for operating systems, software security, and computational com
 <hr>
 
 ## Skills
-
-<img width="32px" src="img/c.svg">
-<img width="32px" src="img/cpp.png">
-<img width="32px" src="img/python.svg">
-<img width="32px" src="img/java.svg">
-<img width="32px" src="img/javascript.svg">
-<img width="32px" src="img/nodejs.svg">
-<img width="32px" src="img/express.svg">
-<img width="32px" src="img/sqlite.svg">
-<img width="32px" src="img/typescript.svg">
-<img width="32px" src="img/go.svg">
-<img width="32px" src="img/bash.svg">
-<img width="32px" src="img/git.svg">
-<img width="32px" src="img/github.svg">
+<a><img width="32px" src="img/c.svg"></a>
+<a><img width="32px" src="img/cpp.png"></a>
+<a><img width="32px" src="img/python.svg"></a>
+<a><img width="32px" src="img/java.svg"></a>
+<a><img width="32px" src="img/javascript.svg"></a>
+<a><img width="32px" src="img/nodejs.svg"></a>
+<a><img width="32px" src="img/express.svg"></a>
+<a><img width="32px" src="img/sqlite.svg"></a>
+<a><img width="32px" src="img/typescript.svg"></a>
+<a><img width="32px" src="img/go.svg"></a>
+<a><img width="32px" src="img/bash.svg"></a>
+<a><img width="32px" src="img/git.svg"></a>
+<a><img width="32px" src="img/github.svg"></a>
 <hr>
 
 ## Connect with me
