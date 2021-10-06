@@ -1,6 +1,6 @@
 <h1 align="center"> Hi :wave:, I'm Dallas</h1>
 
-I am a Linux Software Programmer at [Polaris Motion](https://pmdi.com/)<br> 
+I am a Linux Software Programmer at [Polaris Motion](https://pmdi.com/).<br> 
 I am a Computer Science graduate, with a focus in Software Engineering, from the University of Victoria.<br>
 I have a passion for operating systems, software security, and computational complexity.
 
@@ -10,8 +10,8 @@ I have a passion for operating systems, software security, and computational com
 
 <img width="35%" align="right" alt="Github" src="img/git-header.svg" />
 
-- :seedling: I’m currently learning **C, & GCode**
-- :open_file_folder: I’m currently working on **My Site, and Optimizing Algorithms**
+- :seedling: I’m currently learning **C, & C++**
+- :open_file_folder: I’m currently working on **Server Software, and Personal Projects**
 - :man_technologist: All of my projects are available on my [Github](https://github.com/dallasbrooks?tab=repositories)
 - :page_facing_up: My experiences can be seen on my [Website](https://dallasbrooks.github.io)
 - :smile: Pronouns: He / Him
@@ -21,18 +21,19 @@ I have a passion for operating systems, software security, and computational com
 
 ## Skills
 
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=c&sort="><img width="32px" src="img/c.svg"></a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=python&sort="><img width="32px" src="img/python.svg"></a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=java&sort="><img width="32px" src="img/java.svg"></a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=javascript&sort="><img width="32px" src="img/javascript.svg"></a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=nodejs&sort="><img width="32px" src="img/nodejs.svg"></a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=express&sort="><img width="32px" src="img/express.svg"></a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=sqlite&sort="><img width="32px" src="img/sqlite.svg"></a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=typescript&sort="><img width="32px" src="img/typescript.svg"></a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=go&sort="><img width="32px" src="img/go.svg"></a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=bash&sort="><img width="32px" src="img/bash.svg"></a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=git&sort="><img width="32px" src="img/git.svg"></a>
-<a href="https://github.com/dallasbrooks?tab=repositories&q=&type=&language=github&sort="><img width="32px" src="img/github.svg"></a>
+<img width="32px" src="img/c.svg">
+<img width="32px" src="img/cpp.png">
+<img width="32px" src="img/python.svg">
+<img width="32px" src="img/java.svg">
+<img width="32px" src="img/javascript.svg">
+<img width="32px" src="img/nodejs.svg">
+<img width="32px" src="img/express.svg">
+<img width="32px" src="img/sqlite.svg">
+<img width="32px" src="img/typescript.svg">
+<img width="32px" src="img/go.svg">
+<img width="32px" src="img/bash.svg">
+<img width="32px" src="img/git.svg">
+<img width="32px" src="img/github.svg">
 <hr>
 
 ## Connect with me
