@@ -46,10 +46,5 @@ I have a passion for operating systems, software security, and computational com
 
 ![Github Stats](https://metrics.lecoq.io/dallasbrooks?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
-<!--
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dallasbrooks&theme=tokyonight)
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dallasbrooks&theme=tokyonight&layout=compact)
--->
-
 [![Profile Views](https://gpvc.arturio.dev/dallasbrooks)](https://github.com/dallasbrooks)
 [![Github Followers](https://img.shields.io/github/followers/dallasbrooks?style=social)](https://github.com/dallasbrooks?tab=followers)
