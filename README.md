@@ -41,10 +41,3 @@ I have a passion for operating systems, software security, and computational com
 <a href="https://dallasbrooks.github.io/"><img width="32px" src="img/portfolio.png"/></a> 
 <a href="https://www.github.com/dallasbrooks"><img width="32px" src="img/github.svg"/></a>
 <hr>
-
-## GitHub Stats
-
-![Github Stats](https://metrics.lecoq.io/dallasbrooks?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
-[![Profile Views](https://gpvc.arturio.dev/dallasbrooks)](https://github.com/dallasbrooks)
-[![Github Followers](https://img.shields.io/github/followers/dallasbrooks?style=social)](https://github.com/dallasbrooks?tab=followers)
