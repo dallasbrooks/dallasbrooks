@@ -15,7 +15,7 @@ I have a passion for operating systems, software security, and computational com
 - :man_technologist: All of my projects are available on my [Github](https://github.com/dallasbrooks?tab=repositories)
 - :page_facing_up: My experiences can be seen on my [Website](https://dallasbrooks.github.io)
 - :smile: Pronouns: He / Him
-- :gift: Fun fact: **I like to golf**
+- :gift: Fun fact: **I like to golf & ski**
 
 <hr>
 
