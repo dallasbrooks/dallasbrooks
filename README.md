@@ -34,4 +34,3 @@ I have a passion for operating systems, software security, and computational com
 <a><img width="32px" src="img/git.svg"></a>
 <a><img width="32px" src="img/github.svg"></a>
 <hr>
-
