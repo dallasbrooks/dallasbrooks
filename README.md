@@ -1,6 +1,6 @@
 <h1 align="center"> Hi :wave:, I'm Dallas</h1>
 
-I am a Linux Software Programmer at [Polaris Motion](https://pmdi.com/).<br> 
+I am a Embedded Software Engineer at [Polaris Motion](https://pmdi.com/).<br> 
 I am a Computer Science graduate, with a focus in Software Engineering, from the University of Victoria.<br>
 I have a passion for operating systems, software security, and computational complexity.
 
