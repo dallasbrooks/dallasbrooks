@@ -2,7 +2,7 @@
 
 Software Engineer 2 at [Microsoft](https://www.microsoft.com/en-ca), a part of the Core OS & Network Security team.</br>
 A passion for operating systems, network security, & computational complexity.</br>
-Bachelors of Compute Science from the University of Victoria.</br>
+Bachelors of Computer Science from the University of Victoria.</br>
 
 <hr>
 
